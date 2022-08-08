@@ -203,8 +203,7 @@ header {
   font-size: 36px;
   line-height: 1.2;
   text-align: center;
-  padding-bottom: 50px;
-  margin: 0;
+  margin-bottom: 50px;
 }
 .work-list {
   display: flex;
